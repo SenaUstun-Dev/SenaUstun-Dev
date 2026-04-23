@@ -20,8 +20,7 @@ Backend Developer | Java - Spring Boot
 
 ## 📌 Featured Projects
 
-### 🛒 E-Commerce Microservices  
-👉 https://github.com/SenaUstun-Dev/springboot-microservices-ecommerce  
+  ### 🛒 E-Commerce Microservices  |  [Link](https://github.com/SenaUstun-Dev/springboot-microservices-ecommerce)  
 - Built a microservices-based e-commerce system  
 - Service discovery & API Gateway (Eureka, Gateway)  
 - Asynchronous communication with Kafka  
@@ -30,8 +29,7 @@ Backend Developer | Java - Spring Boot
 
 ---
 
-### 📚 Library Management API  
-👉 https://github.com/Pinsoft-2025/Library-Management-System/tree/deploy_V1  
+### 📚 Library Management API  |  [Link](https://github.com/Pinsoft-2025/Library-Management-System/tree/deploy_V1)  
 - RBAC authorization with JWT  
 - PostgreSQL + Liquibase  
 - Clean architecture & layered design  
