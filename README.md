@@ -118,7 +118,7 @@ A 2D Metroidvania game built with a 3-person team as my senior thesis project.
 - Responsible for testing, debugging, and gameplay balancing
 
 `Unity` `C#` `2D` `Metroidvania`
-
+<!-- 
 ---
 
 ## 📊 GitHub Stats
@@ -128,3 +128,4 @@ A 2D Metroidvania game built with a 3-person team as my senior thesis project.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenaUstun-Dev&layout=compact&theme=tokyonight&hide_border=true&hide=csharp,css" height="165"/>
 </p>
 
+-->
