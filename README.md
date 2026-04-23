@@ -113,6 +113,7 @@ REST API handling session management, seat reservation, and complex booking busi
 
 A 2D Metroidvania game built with a 3-person team as my senior thesis project.
 
+- Led a 3-person team, managing tasks and timelines via Trello to ensure milestones were met.
 - Designed and implemented core game mechanics and system integrations
 - Handled Git/GitHub workflow and technical coordination across the team
 - Responsible for testing, debugging, and gameplay balancing
