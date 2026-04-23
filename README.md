@@ -1,6 +1,6 @@
 # Sena Üstün
-📧 senaustun.dev@gmail.com  |📱 +90 542 588 25 04  |🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sena-ustun/)  
-Backend Developer focused on Java & Microservices
+senaustun.dev@gmail.com  |+90 542 588 25 04  |[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badgelogo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sena-ustun/)  
+Backend Developer | Java - Spring boot
 
 ## 🚀 About Me
 - Java & Spring Boot developer
