@@ -74,7 +74,7 @@ A production-style distributed e-commerce system built to explore cloud-native m
 - **Testcontainers + WireMock + JUnit** for integration testing
 - Docker & Kubernetes for containerization and orchestration
 
-`Java 21` `Spring Boot 4` `Kafka` `Keycloak` `PostgreSQL` `MySQL` `MongoDB` `Docker` `K8s`
+`Java 21` `Spring Boot 4` `Kafka` `Keycloak` `PostgreSQL` `MySQL` `MongoDB` `Flyway` `Docker` `K8s`
 
 ---
 
