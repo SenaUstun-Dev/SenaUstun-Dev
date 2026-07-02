@@ -17,7 +17,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I build backend systems the way I'd want to use them — clean, intentional, and properly thought through.
 I got into coding because designing a system to solve a real problem feels like a game to me: analyze the rules, then play by them as elegantly as possible. When someone tells me *"this way is cleaner,"* I want to understand it all the way down and apply it properly — not just move on.
@@ -26,7 +26,7 @@ Currently focused on **Java/Spring Boot**, microservices architecture, and event
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 **Primary — what I build with**
 
@@ -61,9 +61,9 @@ Currently focused on **Java/Spring Boot**, microservices architecture, and event
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🛒 E-Commerce Microservices Platform · [GitHub](https://github.com/SenaUstun-Dev/springboot-microservices-ecommerce)
+### E-Commerce Microservices Platform · [GitHub](https://github.com/SenaUstun-Dev/springboot-microservices-ecommerce)
 
 A production-style distributed e-commerce system built to explore cloud-native microservices patterns end to end.
 
@@ -80,7 +80,7 @@ A production-style distributed e-commerce system built to explore cloud-native m
 
 ---
 
-### 📚 Library Management System · [GitHub](https://github.com/Pinsoft-2025/Library-Management-System/tree/deploy_V1)
+### Library Management System · [GitHub](https://github.com/Pinsoft-2025/Library-Management-System/tree/deploy_V1)
 
 A full-featured library API where both borrowing rules and admin workflows are properly modeled — not just CRUD.
 
@@ -96,7 +96,7 @@ A full-featured library API where both borrowing rules and admin workflows are p
 
 ---
 
-### 🎬 Cinema Ticket Automation API · [GitHub](https://github.com/Pinsoft-2025/CinemaTicketAutomation)
+### Cinema Ticket Automation API · [GitHub](https://github.com/Pinsoft-2025/CinemaTicketAutomation)
 
 REST API handling session management, seat reservation, and complex booking business logic.
 
@@ -109,7 +109,7 @@ REST API handling session management, seat reservation, and complex booking busi
 
 ---
 
-### 🎮 Peak at Ground Zero · [Watch Demo ▶](https://www.youtube.com/watch?v=W5z0ExUbq-M) · *(GitHub — private, senior thesis)*
+### Peak at Ground Zero · [Watch Demo ▶](https://www.youtube.com/watch?v=W5z0ExUbq-M) · *(GitHub — private, senior thesis)*
 
 A 2D Metroidvania game built with a 3-person team as my senior thesis project.
 
