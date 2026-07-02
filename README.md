@@ -4,7 +4,7 @@
   <b>Backend Developer · Java & Spring Boot · Istanbul, Turkey</b>
 </p>
 <p align="center">
-  <i>Open to backend roles · Available from April 2026</i>
+  <i>Open to backend and PM roles · Available from April 2026</i>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/sena-ustun/">
